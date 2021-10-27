@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ShpakovDmitry" alt="ShpakovDmitry" /> </p>
 
 <p align="center">
- Hi 👋, I'm Dmitry Shpakov.</br>
- I'm Embedded Software and Hardware Developer.</br>
+ Hi 👋, I'm Dmitry Shpakov,</br>
+ Embedded Software and Hardware Developer.</br>
  It is great to have you here!<br/></br>
  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact&count_private=true&include_all_commits=true">
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark">
