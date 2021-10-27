@@ -4,6 +4,21 @@
 
 <h3 align= "center">I'm Embedded Software and Hardware Developer.</h3>
 
+<table align="center">
+<tr>
+<td>
+  
+ [![My github stats](https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact)]()
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark)]()
+
+</td>
+</tr>
+</table>
+
 
 <!--
 **ShpakovDmitry/ShpakovDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
