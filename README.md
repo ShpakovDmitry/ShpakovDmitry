@@ -1,6 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ShpakovDmitry" alt="ShpakovDmitry" /> </p>
 
-<h2 align="center"> Hi 👋, I'm Dmitry Shpakov. It is great to have you here!<br/> </h2> 
+<h3 align="center"> Hi 👋, I'm Dmitry Shpakov. It is great to have you here!<br/> </h3> 
+
+<h3 align= "center">I'm Embedded Software and Hardware Developer.</h3>
 
 
 <!--
