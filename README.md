@@ -4,7 +4,7 @@
 <p align= "center">I'm Embedded Software and Hardware Developer.</p>
 <p align="center">It is great to have you here!<br/> </p> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact&count_private=true"> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark"> </p>
  
