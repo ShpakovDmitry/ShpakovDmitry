@@ -8,6 +8,9 @@
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark">
  </br></br>
  <a href="https://www.linkedin.com/in/dmitry-shpakov-482482178/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin" alt="LinkedIn"></a>
- <a href="https://www.shpakovdmitry.com"><img src="https://img.shields.io/badge/-www.shpakovdmitry.com-blue?style=flat&logo=" alt="www.shpakovdmitry.com"></a></p>
+ <a href="https://www.shpakovdmitry.com"><img src="https://img.shields.io/badge/-www.shpakovdmitry.com-blue?style=flat&logo=" alt="www.shpakovdmitry.com"></a>
+ </br></br>
+ I use <img height="18px" src="https://img.shields.io/badge/-Arch-blue?style=flat&logo=ArchLinux&logoColor=white" alt="Arch"> BTW :)
+</p>
 
-<h2 align="center"> I use <img height="18px" src="https://img.shields.io/badge/-Arch-blue?style=flat&logo=ArchLinux&logoColor=white" alt="Arch"> BTW :)</h2>
+<p align="right"><sub>Last modified at 2021-10-27.</sub>
