@@ -1,24 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ShpakovDmitry" alt="ShpakovDmitry" /> </p>
 
-<h3 align="center"> Hi 👋, I'm Dmitry Shpakov. It is great to have you here!<br/> </h3> 
+<p align="center"> Hi 👋, I'm Dmitry Shpakov.</p>
+<p align= "center">I'm Embedded Software and Hardware Developer.</p>
+<p align="center">It is great to have you here!<br/> </p> 
 
-<h3 align= "center">I'm Embedded Software and Hardware Developer.</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact)"> </p>
 
-<table align="center">
-<tr>
-<td>
-  
- [![My github stats](https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact)]()
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark)]()
-
-</td>
-</tr>
-</table>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark"> </p>
+ 
+<p align="center"> <a href="https://www.linkedin.com/in/dmitry-shpakov-482482178/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.shpakovdmitry.com"><img src="https://img.shields.io/static/v1?label=&message=www.shpakovdmitry.com&color=blue" alt="www.shpakovdmitry.com"></a></p>
 
 <!--
 **ShpakovDmitry/ShpakovDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
