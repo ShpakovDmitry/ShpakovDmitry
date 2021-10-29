@@ -12,8 +12,8 @@
 #include <iostream>
 
 int main(int argc, char** argv) {
-    std::unique_ptr<TVisitor> visitor(new TVisitor);
-    std::unique_ptr<TVisitor> me(new TVisitor);
+    std::unique_ptr<TVisitor> visitor(GIT_REPO_VISITOR);
+    std::unique_ptr<TVisitor> me(GIT_REPO_OWNER);
 
     std::cout << "Welcome dear " << visitor->getName() << "!" << std::endl;
     
