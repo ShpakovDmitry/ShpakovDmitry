@@ -6,7 +6,7 @@
  </br>
  It is great to have you here!<br/>
  </br>
- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact&count_private=true&include_all_commits=true">
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ShpakovDmitry&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&theme=dark&layout=compact&count_private=true">
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark">
  </br>
  </br>
