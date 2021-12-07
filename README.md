@@ -10,7 +10,7 @@
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShpakovDmitry&layout=compact&langs_count=6&theme=dark">
  </br>
  </br>
- <img width="600px" width="auto" src="https://raw.githubusercontent.com/ShpakovDmitry/ShpakovDmitry/master/assets/code.png">
+ <img width="820px" width="auto" src="https://raw.githubusercontent.com/ShpakovDmitry/ShpakovDmitry/master/assets/code.png">
  </br>
  </br>
  <a href="https://www.linkedin.com/in/dmitry-shpakov-482482178/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin" alt="LinkedIn"></a>
