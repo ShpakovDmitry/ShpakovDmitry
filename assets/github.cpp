@@ -13,20 +13,9 @@
 
 int main(int argc, char** argv) {
     std::unique_ptr<TVisitor> visitor(GIT_REPO_VISITOR);
-    std::unique_ptr<TVisitor> me(GIT_REPO_OWNER);
 
     std::cout << "Welcome dear " << visitor->getName() << "!" << std::endl;
     
-    if ( visitor->isHappy() ) {
-        me->makeHappy();
-    } else {
-        if ( me->makeHappy(visitor) ) {
-            me->makeHappy();
-        } else {
-            me->makeSad();
-        }
-    }
-
     return 0;
 }
 
