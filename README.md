@@ -20,4 +20,4 @@
  I use <img height="18px" src="https://img.shields.io/badge/-Arch-blue?style=flat&logo=ArchLinux&logoColor=white" alt="Arch"> BTW :)
 </p>
 
-<p align="right"><sub>Last modified at 2021-12-07.</sub>
+<p align="right"><sub>Last modified at 2022-11-12.</sub>
