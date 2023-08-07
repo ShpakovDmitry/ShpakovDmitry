@@ -5,7 +5,7 @@
  Embedded Software and Hardware Developer.
  </br>
  </br>
- <img width="820px" width="auto" src="https://raw.githubusercontent.com/ShpakovDmitry/ShpakovDmitry/master/assets/code.png">
+ <img src="assest/code.svg" style="width: 100%;" alt="Click to see the source">
  </br>
  </br>
  <a href="https://www.shpakovdmitry.com"><img src="https://img.shields.io/badge/-www.shpakovdmitry.com-blue?style=flat&logo=" alt="www.shpakovdmitry.com"></a>
