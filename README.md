@@ -40,4 +40,4 @@ int main(int argc, char** argv) {
  I use <img height="18px" src="https://img.shields.io/badge/-Arch-blue?style=flat&logo=ArchLinux&logoColor=white" alt="Arch"> BTW :)
 </p>
 
-<p align="right"><sub>Last modified at 2023-08-18.</sub>
+<p align="right"><sub>Last modified at 2023-08-29.</sub>
