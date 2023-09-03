@@ -23,7 +23,7 @@
 #include <iostream>
 
 int main(int argc, char** argv) {
-    std::unique_ptr<TVisitor> visitor = new TVisitor(GIT_REPO_VISITOR);
+    std::unique_ptr<TVisitor> visitor = std::make_unique<TVisitor>(GIT_REPO_VISITOR);
 
     std::cout << "Welcome dear " << visitor->getName() << "!" << std::endl;
     
@@ -40,4 +40,4 @@ int main(int argc, char** argv) {
  I use <img height="18px" src="https://img.shields.io/badge/-Arch-blue?style=flat&logo=ArchLinux&logoColor=white" alt="Arch"> BTW :)
 </p>
 
-<p align="right"><sub>Last modified at 2023-08-29.</sub>
+<p align="right"><sub>Last modified at 2023-09-03.</sub>
