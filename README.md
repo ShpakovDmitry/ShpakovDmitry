@@ -18,7 +18,7 @@
 
 // FIXME I have no idea what this piece of code does
 
-#include <github.h>
+#include <github>
 #include <memory>
 #include <iostream>
 
