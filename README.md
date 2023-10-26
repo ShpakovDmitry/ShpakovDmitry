@@ -8,7 +8,7 @@
  </p>
  
 ```cpp
-/*
+/* -*-c++-*-
  * @file: github.cpp
  * @author: Dmitry Shpakov
  * @date: 2021-10-29
