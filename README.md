@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     return 0;
 }
 
-// XXX Compile with care and -Wall -Werror flags.
+// XXX Compile with -Wall -Werror flags.
 
 // vim: syntax=cpp ts=4 sw=4 sts=4 sr et
 ```
@@ -40,4 +40,4 @@ int main(int argc, char** argv) {
  I use <img height="18px" src="https://img.shields.io/badge/-Arch-blue?style=flat&logo=ArchLinux&logoColor=white" alt="Arch"> BTW :)
 </p>
 
-<p align="right"><sub>Last modified at 2023-10-04.</sub>
+<p align="right"><sub>Last modified at 2024-02-27.</sub>
